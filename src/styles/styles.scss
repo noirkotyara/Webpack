@@ -1,0 +1,11 @@
+$border: 2px solid pink;
+
+.scss-container {
+    color: pink;
+    padding: 10px;
+    border-radius: 5px;
+    border: $border;
+    h2 {
+        text-align: center;
+    }
+}
